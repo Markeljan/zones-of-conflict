@@ -1,5 +1,7 @@
 ## Live at (https://zonesofconflict.xyz)
 
+![Alt Text](https://bafybeieprtsdpqpueqmge4ivntsqj7may4ww4ql4ynh3muuyxreui3uck4.ipfs.nftstorage.link/tankBatlle.gif)
+
 
 ## Web 3.0 real time strategy in the real historical setting
 Zones of Conflict reflect the overall tendency of the web 3.0 gaming to build relatively fun and simple gameplay including play&earn options.
