@@ -1,38 +1,24 @@
-Web 3.0 real time strategy in the real historical setting. Built for NEAR MetaBUILD III Hackathon Fall 2022.
+# Live
+## Live at (https://zonesofconflict.xyz)
 
-NextJS starter project.
+# Intro
+## Web 3.0 real time strategy in the real historical setting
+Zones of Conflict reflect the overall tendency of the web 3.0 gaming to build relatively fun and simple gameplay including play&earn options.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Why not "play to earn" but "play&earn"?
+Because we strongly believe that games are done to be fun first and the option to take something material/tangible away from it comes second. We see the difficulties of current big play to earn games (like Axie Infinity) and try to avoid them by implementing newly developed various details of gameplay and tokenomics.
+The game is built on top of currently centralised service of Google Maps and allows players to pick a side in the ongoing conflict in Ukraine. Player can pick either Ukranian or Russian side to defend/attack the spot of land on the real worldmap. 
 
-## Getting Started
+Each battle includes at least 2 players and lasts until one of them reaches one of the victory conditions (domination/annihilation/cease fire/alliance). Before and after each battle you go to your faction HQ
 
-First, run the development server:
+At the start of your commander's level the game takes place near one small settlement spot and allows to operate up to 5 military units only (which is a usual leitenant task). Then game after game your commander gains experience and in order to control bigger armies is able to qualify for the next military rank (sergeant-->leitenant-->captain-->major-->colonel-->general) after the education process in their faction HQ.
 
-```bash
-npm run dev
-# or
+Your commander could be once evolved to the colonel and even general tier to oversee bigger battles, generate battle plans for the junior army officers what takes your game to a different mode where you become responsible for strategic land fights where multiple battles happen simultaneously.
+
+
+
+
+
+To run Local: 
+yarn,
 yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
