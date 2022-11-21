@@ -1,7 +1,6 @@
-# Live
 ## Live at (https://zonesofconflict.xyz)
 
-# Intro
+
 ## Web 3.0 real time strategy in the real historical setting
 Zones of Conflict reflect the overall tendency of the web 3.0 gaming to build relatively fun and simple gameplay including play&earn options.
 
