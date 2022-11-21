@@ -1,6 +1,6 @@
 ## Live at (https://zonesofconflict.xyz)
 
-<img src="https://bafybeieprtsdpqpueqmge4ivntsqj7may4ww4ql4ynh3muuyxreui3uck4.ipfs.nftstorage.link/tankBatlle.gif" width="40" height="40" />
+<img src="https://bafybeieprtsdpqpueqmge4ivntsqj7may4ww4ql4ynh3muuyxreui3uck4.ipfs.nftstorage.link/tankBatlle.gif" width="400" height="400" />
 
 
 ## Web 3.0 real time strategy in the real historical setting
